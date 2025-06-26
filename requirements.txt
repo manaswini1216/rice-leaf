@@ -1,6 +1,6 @@
-streamlit==1.29.0
-tensorflow==2.10.1
-Pillow==9.5.0
-numpy==1.23.5
-protobuf==3.20.3
-h5py==3.7.0
+streamlit
+tensorflow
+Pillow
+numpy
+protobuf
+h5py
